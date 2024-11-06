@@ -1,0 +1,8 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+python-multipart==0.0.9
+langchain==0.1.11
+langchain-openai==0.0.8
+pypdf==4.1.0
+python-dotenv==1.0.1
+sqlmodel==0.0.16
